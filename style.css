@@ -7,6 +7,7 @@ body{
       rgb(156, 70, 218),rgb(194, 194, 235),rgb(45, 178, 45),
       rgb(217, 217, 33),rgb(228, 164, 45), rgb(222, 58, 58));
     background-repeat: no-repeat;
+    height:100vh;
 }
 h1{
     background-color: aquamarine;

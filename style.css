@@ -10,14 +10,15 @@ body{
     height:100vh;
 }
 h1{
-    background-color: aquamarine;
-    color: blue;
+/*     background-color: aquamarine; */
+    color: rgb(101, 72, 196);
     height: 5rem;
     line-height: 5rem;
     font-size: 3rem;
     display: flex;
     justify-content: center;
     align-items: center;
+    background: transparent;
 }
 .choice{
     height: 100px;

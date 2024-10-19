@@ -2,6 +2,12 @@
     margin: 0;
     padding: 0;
 }
+body{
+    background: linear-gradient(to bottom right, violet,
+      rgb(156, 70, 218),rgb(194, 194, 235),rgb(45, 178, 45),
+      rgb(217, 217, 33),rgb(228, 164, 45), rgb(222, 58, 58));
+    background-repeat: no-repeat;
+}
 h1{
     background-color: aquamarine;
     color: blue;

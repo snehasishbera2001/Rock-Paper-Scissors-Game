@@ -19,7 +19,7 @@ h1{
     justify-content: center;
     align-items: center;
     background: transparent;
-    text-shadow: 8px 8px 10px rgba(237, 234, 234, 0.5);
+    text-shadow: 0 0 10px #00ff00, 0 0 20px #00ff00, 0 0 30px #00ff00;
 }
 .choice{
     height: 100px;
